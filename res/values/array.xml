@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carriers">
+        <item>Airtel</item>
+        <item>Aircel</item>
+        <item>BSNL</item>
+        <item>Docomo</item>
+        <item>Idea</item>
+        <item>Virgin Mobile</item>
+        <item>Vodafone</item>
+    </string-array>
+</resources>
